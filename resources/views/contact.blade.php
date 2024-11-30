@@ -7,8 +7,18 @@
     <title>Halaman Contact</title>
 </head>
 <body>
-    <div>
-        <a href="https://www.instagram.com/shandikadav_" target="_blank">Instagram</a>
-    </div>
+    <a href="/">Home</a>
+    <a href="/blog">Blog</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+    <h1>Halaman Contact</h1>
+    <ul>
+        <li>
+            <a href="https://instagram.com/shandikadav_">Instagram</a>
+        </li>
+        <li>
+            <a href="https://github.com/shandikadav">Github</a>
+        </li>
+    </ul>
 </body>
 </html>
